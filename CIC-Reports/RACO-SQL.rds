@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="RACO-SQL">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=RACO-SQL;Initial Catalog=I3_IC_40</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>ed88ceba-9440-4320-ad01-ab3c59eeba41</DataSourceID>
+</RptDataSource>
